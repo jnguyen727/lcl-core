@@ -8,7 +8,8 @@ Runs fully on a Raspberry Pi, integrates voice interaction, real-time sentiment 
 ## 🎥 Sprint 0 Demo: Audio Loopback Test
 
 Testing USB microphone and speaker playback on Raspberry Pi for LCL-Core.  
-[![Watch the demo](https://www.youtube.com/watch?v=0x7vslrFN0k)
+[![Watch the demo](https://img.youtube.com/vi/YOUTUBE_ID/0.jpg)](https://www.youtube.com/watch?v=0x7vslrFN0k)
+
 
 
 ---
